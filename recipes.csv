@@ -1,0 +1,4 @@
+recipe_id,recipe_name,ingredients,diet
+1,Tomato Soup,"['tomato','salt','water']",vegetarian
+2,Masala Omelette,"['egg','onion','salt']",vegetarian
+3,Pasta,"['pasta','tomato','cheese']",vegetarian

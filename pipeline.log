@@ -1,0 +1,14 @@
+2026-04-21 16:35:39,744 - INFO - Fridge items loaded
+2026-04-21 16:35:39,787 - INFO - Recipes loaded
+2026-04-21 16:35:45,944 - INFO - Fridge items loaded
+2026-04-21 16:35:45,949 - INFO - Recipes loaded
+2026-04-21 16:43:19,489 - INFO - fridge file loaded ok
+2026-04-21 16:43:19,497 - INFO - recipe file loaded ok
+2026-04-21 16:45:37,322 - INFO - fridge file loaded ok
+2026-04-21 16:45:37,327 - INFO - recipe file loaded ok
+2026-04-21 16:45:37,332 - INFO - saved to database successfully
+2026-04-21 16:45:37,341 - INFO - pipeline ran successfully
+2026-04-21 16:47:14,588 - INFO - fridge file loaded ok
+2026-04-21 16:47:14,593 - INFO - recipe file loaded ok
+2026-04-21 16:47:14,597 - INFO - saved to database successfully
+2026-04-21 16:47:14,602 - INFO - pipeline ran successfully
