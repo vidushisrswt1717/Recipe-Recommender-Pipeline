@@ -3,12 +3,9 @@ import pandas as pd
 import sqlite3
 import re
 import ast
-import logging
 import os
 from datetime import datetime
 
-logging.basicConfig(filename="pipeline.log", level=logging.INFO,
-                    format="%(asctime)s - %(levelname)s - %(message)s")
 
 FRIDGE_FILE = "Fridge_Items.json"
 RECIPE_FILE = "recipes.csv"
